@@ -1,7 +1,7 @@
 readme
 ======
 
-This github organization is designed to host development on a new version of euroburners.org. 
+This organization is intended to host development on a new version of euroburners.org, as followup to conversations at the Burning Man European Leadership Conference, hosted 7-9 Feb 2014 in Berlin. 
 
 Initial requirements are being gathered here: 
 
